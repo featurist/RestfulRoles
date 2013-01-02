@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>RestfulRoles</id>
+    <version>0.0.1</version>
+    <authors>Josh Chisholm</authors>
+    <owners>Josh Chisholm</owners>
+    <projectUrl>https://github.com/featurist/RestfulRoles</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Interfaces for RESTful services</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="RestfulRoles\bin\Debug\RestfulRoles.dll" target="lib\net40" />
+  </files>
+</package>
