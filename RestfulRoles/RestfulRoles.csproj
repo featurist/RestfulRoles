@@ -40,14 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConflictException.cs" />
     <Compile Include="Deleter.cs" />
     <Compile Include="ETagAware.cs" />
     <Compile Include="Indexer.cs" />
+    <Compile Include="InsertConflictException.cs" />
     <Compile Include="Inserter.cs" />
     <Compile Include="LastModifiedAware.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RetrieveResult.cs" />
     <Compile Include="Retriever.cs" />
+    <Compile Include="UpsertConflictException.cs" />
     <Compile Include="Upserter.cs" />
     <Compile Include="UpsertResult.cs" />
   </ItemGroup>

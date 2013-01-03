@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulRoles", "RestfulRoles\RestfulRoles.csproj", "{00E7BBA7-82C0-45FE-8350-206BCDCF96EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12B82B3C-C088-4DB5-9B33-23165F6F73F1}"
+	ProjectSection(SolutionItems) = preProject
+		RestfulRoles.nuspec = RestfulRoles.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
