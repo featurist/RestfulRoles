@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>RestfulRoles</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <authors>Josh Chisholm</authors>
     <owners>Josh Chisholm</owners>
     <projectUrl>https://github.com/featurist/RestfulRoles</projectUrl>
