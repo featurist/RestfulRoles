@@ -2,13 +2,13 @@
 <package>
   <metadata>
     <id>RestfulRoles</id>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <authors>Josh Chisholm</authors>
     <owners>Josh Chisholm</owners>
     <projectUrl>https://github.com/featurist/RestfulRoles</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Interfaces for RESTful services</description>
-    <releaseNotes>Exceptions</releaseNotes>
+    <releaseNotes>Repository interface</releaseNotes>
     <copyright>Copyright 2013</copyright>
     <tags></tags>
   </metadata>
